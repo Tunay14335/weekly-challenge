@@ -82,7 +82,7 @@ int main(int argc , char** argv)
                 tris.setPoint(0, vn0);
                 tris.setPoint(1, vn1);
                 tris.setPoint(2, vn2);
-                tris.setFillColor(j % 1 == 0 ? sf::Color::Red : sf::Color::Blue);
+                tris.setFillColor(sf::Color::Red);
                 shapes.push_back(tris);
                 r1++;
                 r2++;
