@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8341903145584672507}
   - component: {fileID: 8341903145584672504}
   - component: {fileID: 8341903145584672505}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: StoneUI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -112,7 +112,7 @@ GameObject:
   - component: {fileID: 8341903145771116506}
   - component: {fileID: 8341903145771116508}
   - component: {fileID: 8341903145771116509}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -251,7 +251,7 @@ GameObject:
   - component: {fileID: 8341903146677966946}
   - component: {fileID: 8341903146677966947}
   - component: {fileID: 8341903146677966949}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Stone
   m_TagString: Stone
   m_Icon: {fileID: 0}

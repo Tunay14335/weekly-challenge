@@ -10,7 +10,7 @@ scopes = {
 	"last_search.10697386" = "GameCore"
 	"OpenInspectorPreview.10697386" = "0"
 	"currentGroup.10697386" = "all"
-	"last_search.60D47293" = "GameCore"
+	"last_search.60D47293" = "Scripts/"
 	"OpenInspectorPreview.60D47293" = "0"
 	"currentGroup.60D47293" = "find"
 }
@@ -59,8 +59,8 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
-	"G"
 	"S"
+	"G"
 ]
 searchItemFavorites = [
 ]
