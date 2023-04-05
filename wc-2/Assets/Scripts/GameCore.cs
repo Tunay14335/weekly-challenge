@@ -166,8 +166,10 @@ public class GameCore : MonoBehaviour , IGameInstruction
 
         ScoreSystem.Instance.ResetScore();
         ScoreSystem.Instance.ReloadBestScore();
-
+        
+        rootStone.transform.position = GameLiterals.INITAL_ROOT_STONE_POSITION;
         rootStone.gameObject.SetActive(true);
+
         cannon.transform.position *= Vector2.up;
 
         OnGameBegin.Invoke();
